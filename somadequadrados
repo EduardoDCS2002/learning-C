@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <assert.h>
 
+//é apenas somar o quadrado de dois números inteiros
 int main() {
         int a, b;
         assert(scanf("%d%d", &a, &b) == 2);
