@@ -1,6 +1,24 @@
 #include <stdio.h>
 #include <assert.h>
 #include <math.h>
+/*
+o objetivo era fazer um padrão com '*' e '.' que por exemplo ao dar imput 3 fica 
+*....*
+**..**
+******
+**..**
+*....*
+ou quando dou imput 5 fica
+*........*
+**......**
+***....***
+****..****
+**********
+****..****
+***....***
+**......**
+*........*
+*/
 int main()
 {
 
